@@ -16,7 +16,7 @@ Have fun!
 
 1. Set up DigitalOcean credentials:
 
-- [DigitalOcean Signup Link](https://www.digitalocean.com/?refcode=0380a1db56a6)
+- [DigitalOcean Signup Link](https://www.digitalocean.com/?refcode=0380a1db56a6) (if you use this link to sign up for DO, we both get some DO credits)
 - [DigitalOcean SSH Key/API Token Setup video](https://www.youtube.com/watch?v=hAW6aXRHWdw&list=PLtK75qxsQaMIHQOaDd0Zl_jOuu1m3vcWO&index=2)
 
 1. Put those credentials into the `variables.tf` file.

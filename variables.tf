@@ -10,12 +10,6 @@ variable "ssh_fingerprint" {
   default     = "ENTER VALUE"
 }
 
-variable "pub_key" {
-  type        = string
-  description = "The path to your public SSH key"
-  default     = "keys/dokey.pub"
-}
-
 variable "pvt_key" {
   type        = string
   description = "The path to your private SSH key"
